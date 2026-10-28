@@ -1,0 +1,10 @@
+{
+  "description": "A romantic, mobile-friendly apology page for Nursitara, featuring Fahim’s heartfelt poem, gentle music, and scrolling animations to express remorse and invite reconciliation.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
